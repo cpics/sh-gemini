@@ -1,0 +1,10 @@
+{
+  "name": "koa-vercel-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "koa": "^2.14.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
